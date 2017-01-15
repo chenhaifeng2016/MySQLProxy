@@ -1,0 +1,17 @@
+通信协议文档
+http://dev.mysql.com/doc/internals/en/connection-phase-packets.html#packet-Protocol::Handshake
+http://dev.mysql.com/doc/internals/en/packet-OK_Packet.html
+
+加密算法文档
+http://dev.mysql.com/doc/internals/en/secure-password-authentication.html
+
+Java默认采用BigEndian
+
+http://blog.csdn.net/gapaul/article/details/12046843
+http://blog.csdn.net/huyangyamin/article/details/53889546
+
+开发计划
+http://www.open-open.com/lib/view/open1419949037296.html
+http://blog.csdn.net/wind520/article/details/43964821
+各种标志位的设置
+数据类型的处理
